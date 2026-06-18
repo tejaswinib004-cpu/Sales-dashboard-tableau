@@ -85,3 +85,8 @@ Sales-Dashboard-Tableau/
 
 ## 📌 Conclusion
 This dashboard provides a simple yet powerful way to analyze sales performance and make data-driven decisions.
+
+---
+
+## Author
+Tejaswini Bollaboina
